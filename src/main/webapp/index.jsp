@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>회원 검색 서비스</h1>
-	<form action="search" method="post">
+	<form action="/jsp-practice/search" method="post">
 		이름 입력: <input type="text" name="name"> 
 		<input type="submit" value="검색">
 	</form>
